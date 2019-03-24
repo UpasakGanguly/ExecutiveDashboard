@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Executivedashboard",
+    "packageName": "com.walgreens.dashboard",
+    "packageFolder": "com/walgreens/dashboard",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZGEwYTM5YzQzMmFhMjk0ZmNlY2U2NzczMTMzMWFmYmE3YjRlNzFhOWI1N2ZjMGQ3NTAwZjEzYmNkMWFmNTY3ZmI4MTNhNTM2MDhlYTRkMDk0N2NkMmMxOWIyZmY3NzQ5MmI1YmFjMDc3MzJlMTAxMmM4YzVmN2UxMGEwNTc5OTA=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "UpasakGanguly",
+  "repository-name": "Executivedashboard"
+}
